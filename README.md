@@ -1,8 +1,7 @@
 - 👋 Hi, I’m Cleo The Coder
 - 👀 I’m interested in coding, movies, wildlife, and food!
 - 🌱 I’m currently learning HTML, CSS, Javascript, Python, React and Node.js
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 How to reach me @cleothecoder on Twitter and Instagram!
 
 <!---
 cyandray/cyandray is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
