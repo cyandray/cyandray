@@ -1,6 +1,6 @@
-- 👋 Hi, I’m Cleo The Coder
-- 👀 I’m interested in coding, movies, wildlife, and food!
-- 🌱 I’m currently learning HTML, CSS, Javascript, Python, React and Node.js
+- 👋 Hi, I’m Cleo The Coder!
+- 👀 I’m interested in DevSecOps / DevOps.
+- 🌱 I’m currently learning and will be certified in Net+, Sec+, Azure, and AWS.
 - 📫 How to reach me @cleothecoder on Twitter and Instagram!
 
 <!---
